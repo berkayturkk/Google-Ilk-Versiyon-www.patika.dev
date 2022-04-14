@@ -1,0 +1,49 @@
+.container {
+    width: 90%;
+    position: relative;
+    margin: auto;
+
+}
+nav {
+    text-align: center;
+}
+.bg-light-gray {
+    background-color: #EEEEEE;
+    text-align: center;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+}
+section {
+    text-align: center;
+}
+#box-1 {
+    background-color: #7EE5DA ;
+    width: 37%;
+    height: 67px;
+    float: left;
+    margin-right: 2px;
+    padding-top: 15px;
+    padding-bottom: 5px;    
+}
+#box-2 {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 77px;
+    float: left;
+    margin-right: 2px;   
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+#box-3 {
+    background-color: #62B3AA;
+    float: left;
+    width: 42%;
+    height: max-content;
+    padding-top: 3px;
+    padding-bottom:3px;
+}
+footer {
+    margin-top: 115px;
+    text-align: center;
+}
+
